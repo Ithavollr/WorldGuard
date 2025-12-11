@@ -1,6 +1,10 @@
+# ![JUnit Tests](https://github.com/Ifiht/WorldGuard/actions/workflows/gradle.yml/badge.svg)
+
 <h1>
     <img src="worldguard-logo.svg" alt="WorldGuard" width="400" /> 
 </h1>
+
+**forked from Worldguard 7.0.13**
 
 WorldGuard lets you and players guard areas of land against griefers and undesirables, as well as tweak and disable various gameplay features of Minecraft.
 
