@@ -4,7 +4,7 @@ plugins {
 }
 
 tasks.named<com.github.jengelman.gradle.plugins.shadow.tasks.ShadowJar>("shadowJar") {
-    archiveClassifier.set("dist")
+    archiveClassifier.set("all")
     dependencies {
         include(project(":worldguard-libs:core"))
         include(project(":worldguard-core"))
