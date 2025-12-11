@@ -85,7 +85,7 @@ tasks.register<RunServer>("runServerInteractive") {
 tasks.register("checkServerLogs") {
     doLast {
         // Path to the latest.log file
-        val logFile = File("run/logs/latest.log")
+        val logFile = File("worldguard-bukkit/run/logs/latest.log")
 
         // Check if the log file exists
         if (!logFile.exists()) {
