@@ -1,4 +1,4 @@
-# ![JUnit Tests](https://github.com/Ifiht/WorldGuard/actions/workflows/gradle.yml/badge.svg)
+# ![JUnit Tests](https://github.com/Ithavollr/WorldGuard/actions/workflows/gradle.yml/badge.svg)
 
 <h1>
     <img src="worldguard-logo.svg" alt="WorldGuard" width="400" /> 
